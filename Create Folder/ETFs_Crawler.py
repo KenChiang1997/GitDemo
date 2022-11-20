@@ -42,10 +42,10 @@ def Address_Money_Text(text):
 
 def Cool_project():
 
-    string = "Git, git push -u origin master!!~~"
-    string = "Git Desktop Tesing!"
+    string1 = "Git, git push -u origin master!!~~"
+    string2 = "Git Desktop Tesing!"
 
-    return string + "Cool Stuff"
+    return string1 + string2 + "Cool Stuff"
 
 def ETF_Screener_Crawler(driver,Type):
     """
