@@ -44,6 +44,7 @@ def Cool_project():
 
     string1 = "Git, git push -u origin master!!~~"
     string2 = "Git Desktop Tesing!"
+    string3 = "Git Desktop open in VScode!"
 
     return string1 + string2 + "Cool Stuff"
 
