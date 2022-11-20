@@ -45,7 +45,9 @@ Mac Os BigSur
    **- step 2.) git status - Allow us to see all the untracked repo(folders) in the folder**
    
    **- step 3.) git add index.html**
+   
    **- step 4.) git commit -m "first commit"**
+   
    **- step 5.) git push -u origin master**
    
  # ***GitHub Desktop to manage repo***
