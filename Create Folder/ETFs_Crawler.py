@@ -227,7 +227,7 @@ def main(Username,Password):
 if __name__ == "__main__":
     
     Username = 'qw930338@gmail.com'
-    Password = 'zjes930338'
+    Password = '****'
     df_overview_fund, df_fund_flow, df_fund_performance, df_esg_performance, df_fund_volatility = main(Username,Password)
 
     df_overview_fund.to_excel(r'./Data/df_fund_overview.xlsx')
