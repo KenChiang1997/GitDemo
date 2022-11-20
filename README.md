@@ -43,5 +43,10 @@ Mac Os BigSur
    ![Screen Shot 2022-11-19 at 10 21 26 AM](https://user-images.githubusercontent.com/80143995/202829891-45c1d34a-5134-454f-83e2-565843f06e2a.png)
 
    **- step 2.) git status - Allow us to see all the untracked repo(folders) in the folder**
+   **- step 3.) git add index.html 
+   **- step 4.) git commit -m "first commit"
+   **- step 5.) git push -u origin master
+   
+ # ***GitHub Desktop to manage repo***
 
-    ![Screen Shot 2022-11-19 at 10 24 08 AM](https://user-images.githubusercontent.com/80143995/202829973-cabff6c0-d63a-4e97-9d0e-878a89a06c50.png) 
+    
